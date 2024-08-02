@@ -116,7 +116,7 @@ def escolher_opcao():
         opcao_invalida()
 
 def main():
-    '''Essa função dita qual a ordem de execução das funções em nossa aplicação.'''
+    '''Essa função dita qual a ordem de execução da aplicação.'''
     os.system('cls')
     exibir_nome_do_programa()
     exibir_opcoes()
